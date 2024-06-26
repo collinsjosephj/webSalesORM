@@ -2,7 +2,6 @@ const router = require('express').Router();
 const { Product, Category, Tag, ProductTag } = require('../../models');
 
 // The `/api/products` endpoint
-
 // api route to get all products and associated tag/product tags
 router.get('/', async (req, res) => {
   try {
@@ -74,7 +73,7 @@ router.post('/', async (req, res) => {
       await ProductTag.bulkCreate(productTagIdArr);
     }
 
-    res.status(200).json(product);
+    res.status(201).json(product);
   } catch (err) {
     console.log(err);
     res.status(400).json(err);

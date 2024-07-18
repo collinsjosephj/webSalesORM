@@ -1,4 +1,4 @@
-# webSalesORM, an E-Commerce Back-End Application    ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+# E-Commerce Back-End Application Starring `Imsomnia`   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Overview
 

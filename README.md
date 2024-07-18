@@ -27,6 +27,15 @@ Because this application won’t be deployed, I have provided a link to a walkth
 - POST, PUT, and DELETE routes for categories being tested in Insomnia
 - POST, PUT, and DELETE routes for products and tags being tested in Insomnia.
 
+### Technologies Demonstrated:
+
+- `Express.js` a stream-lined web application tool for `Node.js`. 
+- `Sequelize` a powerful Object Relational Mapping tool for `Node.js`.
+- `dotenv` utilized to safekeep your information such as database credentials.
+- `MySQL2` used hand-in-hand with Sequelize, a power client library for Node.js.
+
+- `RESTful API` `CRUD`: Create, Read, Update, and Delete operations.
+  
 ## Installation
 
 - Clone the repository to your local machine.

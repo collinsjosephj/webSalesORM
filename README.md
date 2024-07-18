@@ -6,7 +6,10 @@ Internet retail, also known as e-commerce, is a significant component of the ele
 
 This is a build based around modifying starter code, and it is a rundown of utilizing an Express.js API in conjunction with Sequelize to interact with a MySQL database.
 
-Because this application won’t be deployed, I have provided a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. The link to the demonstration video on Google Drive can be found [here]()
+Because this application won’t be deployed, I have provided a link to a walkthrough video that demonstrates its functionality and all of the acceptance criteria being met. The link to the demonstration video on Google Drive can be found [here](https://drive.google.com/file/d/1h7BVfpeUDxM730qblLxKkMebGGzF8vo-/view)
+
+<img width="723" alt="Screenshot 2024-07-18 at 12 04 36" src="https://github.com/user-attachments/assets/59b3c534-a66f-4bc2-b9c9-827037d50300">
+
 
 ## Table of Contents
 
